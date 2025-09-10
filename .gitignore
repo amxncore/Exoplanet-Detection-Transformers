@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data (ignore large files)
+data/exoTrain.csv
+data/exoTest.csv
+data/*.zip
+
+# Notebook junk
+*.ipynb_checkpoints
