@@ -7,3 +7,6 @@ torch
 torchvision
 torchaudio
 jupyter
+notebook
+tqdm
+transformers
